@@ -1,0 +1,1 @@
+# THIS REPOSITORY IS NOW DEPRECATED. PLEASE REFER TO https://github.com/RisingTechOSS-devices FROM NOW ON.
